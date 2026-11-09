@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Whoami
 
-`Software Engineer at Morgan Stanley. I build scalable, resilient systems for finance and explore agentic AI, evals and distributed systems.`
+`Engineer at Morgan Stanley. I build scalable, resilient systems and explore agentic AI, evals and distributed systems as a side gig.`
 
 ---
 
@@ -23,15 +23,13 @@ Agentic AI, LLM evals, RAG, MCP, prompt engineering, distributed systems, system
 
 ## 🚀 Featured
 
-- [OnYourTips](https://github.com/sanjana-302/OnYourTips): local-first AI daily digest with an eval system *(link once public)*
-- [LLDpatternsStarters](https://github.com/sanjana-302/LLDpatternsStarters): design patterns and low-level design starters
-- [neetcode-submissions](https://github.com/sanjana-302/neetcode-submissions): DSA practice
+- [OnYourTips](https://github.com/sanjana-302/OnYourTips): local-first AI daily digest with an eval system
 
 ---
 
 ## ✍️ Blog
 
-[![Blog](https://img.shields.io/badge/sanjana--tech.in/blogs-1f2937?style=for-the-badge&logo=rss&logoColor=white)](https://sanjana-tech.in/blogs)
+[![Blog](https://img.shields.io/badge/sanjana--tech.in/blogs-1f2937?style=for-the-badge&logo=rss&logoColor=white)](https://sanjana-tech.in/)
 
 ---
 
