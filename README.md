@@ -17,7 +17,13 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-Agentic AI, LLM evals, RAG, MCP, prompt engineering, distributed systems, system design
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=for-the-badge)
+![LLM Evals](https://img.shields.io/badge/LLM_Evals-0F766E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-B45309?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-1F2937?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-BE185D?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-1D4ED8?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-374151?style=for-the-badge)
 
 ---
 
