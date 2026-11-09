@@ -1,57 +1,50 @@
-### Hi there 👋
-
-<!--
-**sanjana-302/sanjana-302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-```c++
-#include<bits/stdc++.h>
-int main() 
-{
-  string ⚡bio = "I am Sanjana, passionate coder on a noble mission to experiment with technology. 
-                    I am labelled to create chaos with code, 
-                    so bugs just stay with me, they won't hunt you :P";
-  // No idea about collision handling here, if you hear them a lot ping me :P
-  unordered_map<string,string> everythingElse;
-  everythingElse["Pronouns 💬"] = "She/her"
-  everythingElse["Ask me about 👯"] = "React,firebase,flutter,data structures,algorithms.
-                                       We can even talk dynamic programming, I won't run away :P";
-  everythingElse["I’m currently learning 🔭"] = "Databases,flutter,theoritical computer science
-                                                 (I can boring at times :P)";
-  everythingElse["Fun fact 🌱"] = "I run like a girl, trying to keep up with it";
-  
-  return 0;
-}
-```
-
-
-<h3 align="center"> 🤝🏻 Connect with Me 🤝</h3> 
-
+<h1 align="center">Sanjana Maheshwari</h1>
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/in/sanjana-maheshwari-a45944193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/jana_sane_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="mailto:sanjana.maheshwari456@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+  Software Engineer II at Morgan Stanley · Bengaluru, India<br/>
+  Agentic AI · Distributed systems · Financial technology
 </p>
 
-<h3 align="center"> ⚡ Stay awesome, keep coding ! ⚡ </h3> 
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown by sanjana-302
-  <br />
-  <br />
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <a href="https://sanjana-tech.in"><img src="https://img.shields.io/badge/Website-sanjana--tech.in-1f2937?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
+  <a href="https://sanjana-tech.in/blogs"><img src="https://img.shields.io/badge/Blog-read-1f2937?style=flat&logo=rss&logoColor=white" alt="Blog"/></a>
+  <a href="https://www.linkedin.com/in/sanjana-maheshwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sanjana.maheshwari456@gmail.com"><img src="https://img.shields.io/badge/Email-444?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+## About
+
+I build scalable, resilient systems for the financial domain, working across design, development and deployment with cross-functional teams. Outside work I explore AI/ML, distributed systems and resource-efficient architectures, and write about them on my [blog](https://sanjana-tech.in/blogs). Views are my own.
+
+## What I work on
+
+- **AI-driven processing:** pipelines that combine static parsers with LLM APIs to structure unstructured financial messages, cutting manual effort.
+- **Reliability:** notification and alerting services that protect critical financial communications.
+- **Legacy modernization:** migrating decade-old search infrastructure to internal systems, taking API latency from minutes to sub-second.
+- **Internal AI leadership:** AI/ML subject matter expert for my division, including talks on anomaly detection and prompt engineering to 100+ engineers.
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| **[OnYourTips](https://github.com/sanjana-302/OnYourTips)** | Local-first AI daily digest that replaces tracking six tech/AI news sources by hand. Runs on local models, with several AI features and an eval system to measure them. *(link once the repo is public)* |
+| **[LLDpatternsStarters](https://github.com/sanjana-302/LLDpatternsStarters)** | Starter code for the Gang of Four creational, structural and behavioral design patterns, plus low-level design problems. |
+| **[neetcode-submissions](https://github.com/sanjana-302/neetcode-submissions)** | Ongoing data-structures and algorithms practice. |
+| **[UPASTHITI](https://github.com/sanjana-302/UPASTHITI)** | Hackathon product idea that placed in the top 5 of 60+ teams at AMU HACKS 1.O. |
+
+## Tech
+
+**Focus:** Agentic AI development, Model Context Protocol (MCP), Anthropic Claude, LLM evaluation  
+**Languages:** C++, Python, JavaScript, Dart  
+**Frameworks & tools:** React, Firebase, Flutter, Git
+
+## Recognition
+
+- Top 7 of 437 teams, SHE Hacks DTU
+- Top 5 of 60+ teams, AMU HACKS 1.O (UPASTHITI)
+- Global rank 1569, Google Code Jam to I/O
+- Grace Hopper Celebration Scholar '21
+- Top 25 of 130+ teams, ABU Robocon India (AMU Roboclub)
+
+## Elsewhere
+
+Education: Bachelor's in Computer Engineering, Aligarh Muslim University (2019–2023).
