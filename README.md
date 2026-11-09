@@ -33,18 +33,7 @@ I build scalable, resilient systems for the financial domain, working across des
 
 ## Tech
 
-**Focus:** Agentic AI development, Model Context Protocol (MCP), Anthropic Claude, LLM evaluation  
-**Languages:** C++, Python, JavaScript, Dart  
-**Frameworks & tools:** React, Firebase, Flutter, Git
-
-## Recognition
-
-- Top 7 of 437 teams, SHE Hacks DTU
-- Top 5 of 60+ teams, AMU HACKS 1.O (UPASTHITI)
-- Global rank 1569, Google Code Jam to I/O
-- Grace Hopper Celebration Scholar '21
-- Top 25 of 130+ teams, ABU Robocon India (AMU Roboclub)
-
-## Elsewhere
-
-Education: Bachelor's in Computer Engineering, Aligarh Muslim University (2019–2023).
+**Languages:** Java, Python, C++, JavaScript/TypeScript  
+**AI & agents:** Agentic AI, LLM evals, RAG, prompt engineering, tool use / function calling, Model Context Protocol (MCP), Anthropic Claude, OpenAI APIs, local LLMs  
+**Systems:** Distributed systems, system design, low-level design, event-driven architecture, API design  
+**Tools:** Git, React, Firebase
