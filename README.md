@@ -1,39 +1,42 @@
-<h1 align="center">Sanjana Maheshwari</h1>
-<p align="center">
-  Software Engineer II at Morgan Stanley · Bengaluru, India<br/>
-  Agentic AI · Distributed systems · Financial technology
-</p>
+# Hi, I'm Sanjana 👋
 
-<p align="center">
-  <a href="https://sanjana-tech.in"><img src="https://img.shields.io/badge/Website-sanjana--tech.in-1f2937?style=flat&logo=safari&logoColor=white" alt="Website"/></a>
-  <a href="https://sanjana-tech.in/blogs"><img src="https://img.shields.io/badge/Blog-read-1f2937?style=flat&logo=rss&logoColor=white" alt="Blog"/></a>
-  <a href="https://www.linkedin.com/in/sanjana-maheshwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sanjana.maheshwari456@gmail.com"><img src="https://img.shields.io/badge/Email-444?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+---
 
-## About
+## 👩‍💻 Whoami
 
-I build scalable, resilient systems for the financial domain, working across design, development and deployment with cross-functional teams. Outside work I explore AI/ML, distributed systems and resource-efficient architectures, and write about them on my [blog](https://sanjana-tech.in/blogs). Views are my own.
+`Software Engineer at Morgan Stanley. I build scalable, resilient systems for finance and explore agentic AI, evals and distributed systems.`
 
-## What I work on
+---
 
-- **AI-driven processing:** pipelines that combine static parsers with LLM APIs to structure unstructured financial messages, cutting manual effort.
-- **Reliability:** notification and alerting services that protect critical financial communications.
-- **Legacy modernization:** migrating decade-old search infrastructure to internal systems, taking API latency from minutes to sub-second.
-- **Internal AI leadership:** AI/ML subject matter expert for my division, including talks on anomaly detection and prompt engineering to 100+ engineers.
+## 🔭 Tools of Trade
 
-## Featured projects
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-| Project | What it is |
-|---|---|
-| **[OnYourTips](https://github.com/sanjana-302/OnYourTips)** | Local-first AI daily digest that replaces tracking six tech/AI news sources by hand. Runs on local models, with several AI features and an eval system to measure them. *(link once the repo is public)* |
-| **[LLDpatternsStarters](https://github.com/sanjana-302/LLDpatternsStarters)** | Starter code for the Gang of Four creational, structural and behavioral design patterns, plus low-level design problems. |
-| **[neetcode-submissions](https://github.com/sanjana-302/neetcode-submissions)** | Ongoing data-structures and algorithms practice. |
-| **[UPASTHITI](https://github.com/sanjana-302/UPASTHITI)** | Hackathon product idea that placed in the top 5 of 60+ teams at AMU HACKS 1.O. |
+Agentic AI, LLM evals, RAG, MCP, prompt engineering, distributed systems, system design
 
-## Tech
+---
 
-**Languages:** Java, Python, C++, JavaScript/TypeScript  
-**AI & agents:** Agentic AI, LLM evals, RAG, prompt engineering, tool use / function calling, Model Context Protocol (MCP), Anthropic Claude, OpenAI APIs, local LLMs  
-**Systems:** Distributed systems, system design, low-level design, event-driven architecture, API design  
-**Tools:** Git, React, Firebase
+## 🚀 Featured
+
+- [OnYourTips](https://github.com/sanjana-302/OnYourTips): local-first AI daily digest with an eval system *(link once public)*
+- [LLDpatternsStarters](https://github.com/sanjana-302/LLDpatternsStarters): design patterns and low-level design starters
+- [neetcode-submissions](https://github.com/sanjana-302/neetcode-submissions): DSA practice
+
+---
+
+## ✍️ Blog
+
+[![Blog](https://img.shields.io/badge/sanjana--tech.in/blogs-1f2937?style=for-the-badge&logo=rss&logoColor=white)](https://sanjana-tech.in/blogs)
+
+---
+
+## 📫 Reach me on
+
+[![Website](https://img.shields.io/badge/Website-1f2937?style=for-the-badge&logo=safari&logoColor=white)](https://sanjana-tech.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-maheshwari/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjana.maheshwari456@gmail.com)
